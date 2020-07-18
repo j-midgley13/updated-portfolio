@@ -1,11 +1,40 @@
 
 body {
     background-image: url(../images/bigbackground.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
     position: relative;
     padding-bottom: 56px;
     min-height: 100vh;
     /* added background color in case image doesn't work */
     background-color: whitesmoke;
+}
+
+.navName {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 30px;
+}
+
+.headerPages {
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    padding-top: 3%;
+    padding-left: 3%;
+} 
+
+h6 {
+    color: #343a40;
+    font-family: 'Saira Semi Condensed', sans-serif;
+}
+
+
+.otherText, p {
+    font-family: 'Saira Semi Condensed', sans-serif;
 }
 
 .container {
