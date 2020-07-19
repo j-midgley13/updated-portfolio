@@ -11,6 +11,14 @@ body {
     background-color: whitesmoke;
 }
 
+.bg-dark {
+    background-color: #495D66!important;
+}
+
+.btn-dark {
+    background-color: #495D66!important;
+}
+
 .navName {
     font-family: 'Saira Semi Condensed', sans-serif;
     font-size: 30px;
